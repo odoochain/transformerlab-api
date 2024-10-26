@@ -171,3 +171,6 @@ logs/
 
 # AWS configuration
 scripts/aws/aws.conf
+
+## xiaxiaozheng
+.idea/
